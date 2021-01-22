@@ -1,10 +1,5 @@
 ### Hi there 👋Abu Osama 
 
-<!--
-**Abu-Osama/Abu-Osama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...Android Engineer
 - 🌱 I’m currently learning ...Flutter ,Node js
 - 🤔 I love contributing to the open-source ecosystem and the community by giving talks, writing blog posts, co-authoring/reviewing books, building Android libraries, etc. whenever I can.

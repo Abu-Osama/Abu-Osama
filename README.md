@@ -6,7 +6,7 @@
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Osama&layout=compact&theme=nightowl)
 - 💬 I am working in Android, Kotlin, Java, flutter  and spend most of my time automating my life via literally living inside the terminal
-- 📫 How to reach me:abu.jamia7@gmail.com
+  
 -->
 
 

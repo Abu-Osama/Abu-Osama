@@ -58,9 +58,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abu-Osama&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Osama&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+ <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Abu-Osama&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abu-Osama&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
